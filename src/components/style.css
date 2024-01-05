@@ -52,7 +52,7 @@
   align-items: flex-start;
 }
 
- .todos {
+.todos {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
@@ -60,8 +60,6 @@
   padding: 15px;
   background-color: rgb(50, 195, 205);
 }
-
-/*
 
 .dragactive {
   background-color: rgb(0, 221, 236);
@@ -77,6 +75,7 @@
 
 .todos__heading {
   font-size: 30px;
+  /* text-align: center; */
   color: white;
 }
 
@@ -133,4 +132,4 @@
     width: 95%;
     margin-bottom: 10px;
   }
-} */
+}
